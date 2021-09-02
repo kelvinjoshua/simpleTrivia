@@ -7,7 +7,7 @@
     Refererencing strings from strings.xml
     Mastering Constraint layouts.
 ## Screen Shot
-    ![Screenshot_20210902_221025_com example questions](https://user-images.githubusercontent.com/60692205/131902816-913e20e2-2ac0-4fda-b1d6-b83dda413b61.jpg)
+    https://user-images.githubusercontent.com/60692205/131902816-913e20e2-2ac0-4fda-b1d6-b83dda413b61.jpg
 ## Licence
     ## MIT License
     copyright (c) 2021 kelvinjoshua
