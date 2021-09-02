@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="imageDesc">bulb</string>
+    <string name="trueBut">TRUE</string>
+    <string name="falseBut">FALSE</string>
+    <string name="nav">Bale© 2021</string>
+</resources>
