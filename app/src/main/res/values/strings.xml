@@ -4,4 +4,11 @@
     <string name="trueBut">TRUE</string>
     <string name="falseBut">FALSE</string>
     <string name="nav">Bale© 2021</string>
+    <!-- Questions-->
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">Incorrect Choice</string>
+    <string name="independence">Kenya gained it\'s independence in 1963.</string>
+    <string name="countries">Africa has a total of 52 countries.</string>
+    <string name="tourism">The coast boasts for tourist attractions.</string>
+    <string name="church">The firstMission center was in Rabai,Kenya.</string>
 </resources>
