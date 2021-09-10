@@ -9,7 +9,8 @@
 ## Screen Shot
    <img src="https://user-images.githubusercontent.com/60692205/131902816-913e20e2-2ac0-4fda-b1d6-b83dda413b61.jpg" width="400" height="700">
 ## Licence
-    ## MIT License
+
+    MIT License
     copyright (c) 2021 kelvinjoshua
     
     Permission is hereby granted, free of charge, to any person obtaining
